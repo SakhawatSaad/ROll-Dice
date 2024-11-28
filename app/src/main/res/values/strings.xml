@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+    <string name="dice_roll_image_desc">this is a dice roll image</string>
+    <string name="let_s_roll_btn">Let\'s Roll</string>
+</resources>
